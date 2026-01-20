@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kkk/px4_simulation_p_eigen_ws/devel/setup.sh

@@ -1,0 +1,2 @@
+simulate_offboard
+-DCATKIN_DEVEL_PREFIX=/home/kkk/px4_simulation_p_eigen_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kkk/px4_simulation_p_eigen_ws/install -G Unix Makefiles

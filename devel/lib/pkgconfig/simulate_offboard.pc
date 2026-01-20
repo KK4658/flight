@@ -1,0 +1,8 @@
+prefix=/home/kkk/px4_simulation_p_eigen_ws/devel
+
+Name: simulate_offboard
+Description: Description of simulate_offboard
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
